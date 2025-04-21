@@ -57,7 +57,7 @@ venv\Scripts\activate
 source venv/bin/activate
 
 ### 3. Install dependencies
-python.exe -m pip install --upgrade pip
+python.exe -m pip install --upgrade pip <br/>
 pip install -r requirements.txt
 
 ### 4. Launch the application
