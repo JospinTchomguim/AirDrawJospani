@@ -47,7 +47,7 @@ cd AirDrawJospani
 
 ### 2. Create a virtual environment (recommended)
 
-# Create the virtual environment
+#### Create the virtual environment
 python -m venv venv
 
 # Activate the environment
