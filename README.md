@@ -89,7 +89,6 @@ To erase, **fully open your palm**. A **circle will appear around your index fin
 - 🟢 **Active Color**: displayed in the **top left corner**
 - ❌ **Quit App**: press the **`q`** key
 
-Great idea to add a section for planned features! Here's a well-structured version to add to your README.md:
 
 ---
 
