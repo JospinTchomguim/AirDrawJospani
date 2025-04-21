@@ -50,10 +50,10 @@ cd AirDrawJospani
 #### Create the virtual environment
 python -m venv venv
 
-# Activate the environment
-# On Windows:
-venv\Scripts\activate
-# On Linux/macOS:
+#### Activate the environment
+#### On Windows:
+venv\Scripts\activate <br/>
+#### On Linux/macOS:
 source venv/bin/activate
 
 ### 3. Install dependencies
