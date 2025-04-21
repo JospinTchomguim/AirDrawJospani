@@ -42,7 +42,7 @@ This project illustrates how computer vision can pave the way for **natural inte
 
 ### 1. Clone the repository
 
-git clone https://github.com/JospinTchomguim/AirDrawJospani.git
+git clone https://github.com/JospinTchomguim/AirDrawJospani.git 
 cd AirDrawJospani
 
 ### 2. Create a virtual environment (recommended)
