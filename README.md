@@ -1,6 +1,6 @@
 # 🎨 AirDrawJospani by Jospin ✍️
 
-**AirDrawJospani** is a computer vision project that lets you **draw in the air with your fingers**, turning your webcam into a true **interactive digital canvas**. It's inspired by the drawing experience of MS Paint, but here, **no mouse is required**—just your hand. 
+**AirDrawJospani** is a computer vision project that lets you **draw in the air with your fingers**, turning your webcam into a true **interactive digital canvas**. It's inspired by the drawing experience of MS Paint, but here, **no mouse is required** — just your hand. 
 
 ---
 
